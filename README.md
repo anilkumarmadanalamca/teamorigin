@@ -1,2 +1,2 @@
 # teamorigin
-team origin surnoi
+team origin surnoi demo
